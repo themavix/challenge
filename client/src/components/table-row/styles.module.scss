@@ -1,0 +1,27 @@
+.event-name {
+    width: 60px;
+    text-align: left;
+}
+
+.price {
+    width: 50px;
+    text-align: right;
+}
+
+.item-name {
+    width: 100px;
+    text-align: left;
+}
+
+.customer {
+    width: 80px;
+    text-align: left;
+}
+
+.destination {
+    width: 170px;
+    text-align: left;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
