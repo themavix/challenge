@@ -9,5 +9,5 @@ export const App = () => {
       <Search />
       <Table />
     </div>
-  )
+  );
 };

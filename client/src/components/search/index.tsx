@@ -18,6 +18,5 @@ export const Search = observer(() => {
             
             {ordersCount !== undefined && <span>Records found: {ordersCount}</span>}
         </div>
-       
     );
 });
