@@ -4,7 +4,6 @@ import { TableRow } from '../table-row';
 import { appStore } from '../../store';
 import styles from './styles.module.scss';
 
-
 export const Table = observer(() => {
     return (
         <div className={styles['container']}>
